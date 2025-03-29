@@ -1,0 +1,39 @@
+body {
+    font-family: "Quicksand", sans-serif;
+    margin-left: 5.2rem;
+}
+
+hr {
+    border: 2px solid #000000;
+    margin-right: 30%;
+    margin-top: 6.5rem;
+    border-radius: 120px;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h3 {
+    color: #60b46d;
+    position: relative;
+    top: -8px;
+}
+
+.sub-title {
+    color: #60b46d;
+    font-weight: 700;
+    position: relative;
+    top: 12px;
+}
+
+.sub-info {
+    color: #3780cc;
+    position: relative;
+    top: 15px;
+}
+
+.address {
+    line-height: 5px;
+}
+
